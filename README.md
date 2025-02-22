@@ -55,4 +55,15 @@ The dataset consists of **transactional data from Black Friday sales** at Walmar
 ✔️ **Loyalty Programs**: Encourage long-term city residents to boost customer retention.  
 ✔️ **Gender-Specific Offers**: Develop marketing strategies **targeted at males** based on spending patterns.  
 
-## 📂 Project Structure  
+
+## 🚀 Tools & Technologies  
+- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy.stats`  
+- **Statistics**: Confidence Intervals, Central Limit Theorem (CLT), Hypothesis Testing  
+- **Visualization**: Boxplots, Histograms, Heatmaps  
+
+---
+
+### 🎯 Conclusion  
+This analysis provides Walmart with **data-driven insights** to enhance customer segmentation, pricing strategies, and targeted marketing efforts. By leveraging **statistical inference techniques**, Walmart can optimize promotions and **maximize Black Friday sales**.  
+
+🔗 **Explore the full analysis in the Jupyter Notebooks!** 🚀
